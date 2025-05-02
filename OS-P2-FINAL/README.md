@@ -15,8 +15,8 @@ Compile and run both Java files using:
 javac Scheduler.java
 java Scheduler
 
-javac ProducerConsumerDemo.java
-java ProducerConsumerDemo
+javac ProducerConsumer.java
+java ProducerConsumer
 ```
 
 ### What It Demonstrates:
